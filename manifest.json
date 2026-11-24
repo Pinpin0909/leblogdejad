@@ -1,0 +1,9 @@
+{
+  "name": "Le blog de Jad",
+  "short_name": "Le blog de J",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#723fe9",
+  "theme_color": "#ff006f"
+}
